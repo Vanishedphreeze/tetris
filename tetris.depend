@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1503580010 source:d:\myprojects\tetris\main.cpp
+	<ctime>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"include/gamemodes.h"
+	"include/title.h"
+
+1467022402 d:\myprojects\tetris\include\gamemodes.h
+	<ctime>
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"tetrisboard.h"
+
+1467255864 d:\myprojects\tetris\include\tetrisboard.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string>
+	<conio.h>
+	<windows.h>
+	"textprint.h"
+	"shapes.h"
+
+1467116922 d:\myprojects\tetris\include\textprint.h
+	<windows.h>
+	<iostream>
+
+1466429444 d:\myprojects\tetris\include\shapes.h
+	<windows.h>
+
+1467022891 d:\myprojects\tetris\include\title.h
+	<windows.h>
+	<conio.h>
+
